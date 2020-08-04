@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to the Force!!</a>
+        Welcome to the Force!!
       </h1>
 
       <p className="description">
